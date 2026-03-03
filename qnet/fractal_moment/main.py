@@ -1,3 +1,6 @@
+import yaml
+
+from qnet.config import c_env
 from typing import Literal
 from pydantic import BaseModel
 
@@ -46,3 +49,9 @@ class Edge(BaseModel):
 class Graph(BaseModel):
     nodes: list[Node]
     edges: list[Edge]
+
+
+def get_source() -> Graph:
+    with open(c_env.SOURCE_FILE, "r") as f:
+        yaml_dict = yaml.safe_load(f)
+        return Graph.model_validate(yaml_dict)

@@ -29,16 +29,33 @@ dependencies = [
   "rich>=14.0.0",
   "yq>=3.4.3",
   "ipykernel>=6.29.5",
+  "cosmograph>=0.0.47",
+  "graphistry>=0.41.2",
+  "networkx>=3.5",
+  "neo4j>=6.0.3",
 ]
 
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
+[tool.setuptools]
+package-dir = {"" = "."}
+
 [tool.setuptools.packages.find]
-where    = ["."]
-include  = ["explore", "bin"]
-exclude  = ["data*", "reports*", "data_out*", "docs*"]
+where = ["."]
+include = ["qnet*"]
+
+# Tell uv to actually install the project into the env
+[tool.uv]
+package = true
+
+# Optional: dev-only stuff that's nice for notebooks & testing
+[dependency-groups]
+dev = [
+  "ipykernel",
+  "pytest",
+]
 
 [tool.pytest.ini_options]
 testpaths = ["explore/tests"]

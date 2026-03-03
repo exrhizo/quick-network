@@ -1,0 +1,3181 @@
+{
+  "nodes": [
+    {
+      "data": {
+        "id": "a:Storytelling Workshop",
+        "label": "Storytelling Workshop",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Interesting People",
+        "label": "Interesting People",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Resilience Pace",
+        "label": "Resilience Pace",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Woman",
+        "label": "Woman",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Dating",
+        "label": "Dating",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Social Safety Net",
+        "label": "Social Safety Net",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Emotions",
+        "label": "Emotions",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Resilience",
+        "label": "Resilience",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Connections",
+        "label": "Connections",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Tucson",
+        "label": "Tucson",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Third Place",
+        "label": "Third Place",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Circling Drawbacks",
+        "label": "Circling Drawbacks",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Birthday May 2026",
+        "label": "Birthday May 2026",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Party",
+        "label": "Party",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Current Friends",
+        "label": "Current Friends",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:New Friends",
+        "label": "New Friends",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Springboard",
+        "label": "Springboard",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Ideas",
+        "label": "Ideas",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Facilitation",
+        "label": "Facilitation",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Social Events",
+        "label": "Social Events",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Overwhelm",
+        "label": "Overwhelm",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Boredom",
+        "label": "Boredom",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Attention Diffusion",
+        "label": "Attention Diffusion",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Bay Friends",
+        "label": "Bay Friends",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Bay Intensity",
+        "label": "Bay Intensity",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Expensiveness",
+        "label": "Expensiveness",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Work",
+        "label": "Work",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Floundering",
+        "label": "Floundering",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Michael's Death",
+        "label": "Michael's Death",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Workaholism",
+        "label": "Workaholism",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Superficial Friendships",
+        "label": "Superficial Friendships",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Not Belonging",
+        "label": "Not Belonging",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Dreams Slipping",
+        "label": "Dreams Slipping",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Social Activities",
+        "label": "Social Activities",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Inaction",
+        "label": "Inaction",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Women",
+        "label": "Women",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Disappointment",
+        "label": "Disappointment",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Self-Image (Bold Go-Getter)",
+        "label": "Self-Image (Bold Go-Getter)",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Self-Image Mismatch",
+        "label": "Self-Image Mismatch",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Reading",
+        "label": "Reading",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:YouTube",
+        "label": "YouTube",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Books",
+        "label": "Books",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Erudition",
+        "label": "Erudition",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Cleverness",
+        "label": "Cleverness",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Circling Community",
+        "label": "Circling Community",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Annoyance",
+        "label": "Annoyance",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Not Being Understood",
+        "label": "Not Being Understood",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:More In Life",
+        "label": "More In Life",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Meditation",
+        "label": "Meditation",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Peace",
+        "label": "Peace",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Adventures",
+        "label": "Adventures",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Health Protocols",
+        "label": "Health Protocols",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Throat Pain",
+        "label": "Throat Pain",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Waiting",
+        "label": "Waiting",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Meetings",
+        "label": "Meetings",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Coworkers",
+        "label": "Coworkers",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Staying in Contact",
+        "label": "Staying in Contact",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Thomas",
+        "label": "Thomas",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Cindre",
+        "label": "Cindre",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Danny",
+        "label": "Danny",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Simon",
+        "label": "Simon",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Alex",
+        "label": "Alex",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Leo",
+        "label": "Leo",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Connection",
+        "label": "Connection",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Coherence",
+        "label": "Coherence",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Super Cool Engineering",
+        "label": "Super Cool Engineering",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Simple Consensus",
+        "label": "Simple Consensus",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Roadmap",
+        "label": "Roadmap",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Delivery",
+        "label": "Delivery",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Sales Team",
+        "label": "Sales Team",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Leo's Micromanagement",
+        "label": "Leo's Micromanagement",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Engagement",
+        "label": "Engagement",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Psychosocial Emotional Gaps",
+        "label": "Psychosocial Emotional Gaps",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Alignment with Simon",
+        "label": "Alignment with Simon",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Product Focus",
+        "label": "Product Focus",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Fear",
+        "label": "Fear",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Frustration",
+        "label": "Frustration",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Core Experience",
+        "label": "Core Experience",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Product Usefulness",
+        "label": "Product Usefulness",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:External Success",
+        "label": "External Success",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Theoretical Underpinnings",
+        "label": "Theoretical Underpinnings",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Information Processing System",
+        "label": "Information Processing System",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Social Features",
+        "label": "Social Features",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Connection Board",
+        "label": "Connection Board",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Weekly Star",
+        "label": "Weekly Star",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Creating Meetings",
+        "label": "Creating Meetings",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Expectations",
+        "label": "Expectations",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Energy",
+        "label": "Energy",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:ADHD Loops",
+        "label": "ADHD Loops",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Product Suck",
+        "label": "Product Suck",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Dissatisfaction",
+        "label": "Dissatisfaction",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Alex Maurice",
+        "label": "Alex Maurice",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Unfinished Code Merges",
+        "label": "Unfinished Code Merges",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Fantasy Fear World",
+        "label": "Fantasy Fear World",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Premature Research Requests",
+        "label": "Premature Research Requests",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Extra Effort",
+        "label": "Extra Effort",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Initial Gains",
+        "label": "Initial Gains",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Maker-Manager Load",
+        "label": "Maker-Manager Load",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Attention Drift",
+        "label": "Attention Drift",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Theory",
+        "label": "Theory",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Misalignment",
+        "label": "Misalignment",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Bummer",
+        "label": "Bummer",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Flow",
+        "label": "Flow",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Team Momentum",
+        "label": "Team Momentum",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Headway",
+        "label": "Headway",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Not Being Seen",
+        "label": "Not Being Seen",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Product Conversations",
+        "label": "Product Conversations",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Exclusion",
+        "label": "Exclusion",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Insights",
+        "label": "Insights",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Cyber Use Cases",
+        "label": "Cyber Use Cases",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Complaining",
+        "label": "Complaining",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Folder of Use Cases",
+        "label": "Folder of Use Cases",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Just-Share-It",
+        "label": "Just-Share-It",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Website",
+        "label": "Website",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Not Using Website",
+        "label": "Not Using Website",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Google Doc",
+        "label": "Google Doc",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Project",
+        "label": "Project",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Substack",
+        "label": "Substack",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Sharing Muscle",
+        "label": "Sharing Muscle",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Front-End Cleanup",
+        "label": "Front-End Cleanup",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Unblocked Communication",
+        "label": "Unblocked Communication",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Prototyper Identity",
+        "label": "Prototyper Identity",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Independent Researcher Identity",
+        "label": "Independent Researcher Identity",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Sharing Artifacts",
+        "label": "Sharing Artifacts",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Muscle Build",
+        "label": "Muscle Build",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Website Organization",
+        "label": "Website Organization",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Readiness",
+        "label": "Readiness",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Energy Freed",
+        "label": "Energy Freed",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Collaborations",
+        "label": "Collaborations",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Self-Clarity",
+        "label": "Self-Clarity",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Two-Week Cycle",
+        "label": "Two-Week Cycle",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Distillation",
+        "label": "Distillation",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Right-Sized Work",
+        "label": "Right-Sized Work",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Next May",
+        "label": "Next May",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Sharing Friends",
+        "label": "Sharing Friends",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Online Community",
+        "label": "Online Community",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Reputation (Quirky but Solid)",
+        "label": "Reputation (Quirky but Solid)",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Sharing Attempts",
+        "label": "Sharing Attempts",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:No Interest",
+        "label": "No Interest",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Sharer Stage",
+        "label": "Sharer Stage",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Incoherence",
+        "label": "Incoherence",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Overbuilding",
+        "label": "Overbuilding",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Short-Cycle Momentum",
+        "label": "Short-Cycle Momentum",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:In-Person Excitement",
+        "label": "In-Person Excitement",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Dad Pattern",
+        "label": "Dad Pattern",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Piling Experiments",
+        "label": "Piling Experiments",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Teammates",
+        "label": "Teammates",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "a:Compensation",
+        "label": "Compensation",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Jealousy",
+        "label": "Jealousy",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Perfectionism",
+        "label": "Perfectionism",
+        "partition": "actant",
+        "role": "Constraint"
+      },
+      "classes": "actant role-constraint"
+    },
+    {
+      "data": {
+        "id": "a:Future Space",
+        "label": "Future Space",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Financial Time",
+        "label": "Financial Time",
+        "partition": "actant",
+        "role": "Constructor"
+      },
+      "classes": "actant role-constructor"
+    },
+    {
+      "data": {
+        "id": "a:Team",
+        "label": "Team",
+        "partition": "actant",
+        "role": "Actor"
+      },
+      "classes": "actant role-actor"
+    },
+    {
+      "data": {
+        "id": "u:1",
+        "label": "I explore the storytelling workshop and I meet some interesting people there.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:2",
+        "label": "Through that I meet a woman that maybe I hang out with and think about dating.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:3",
+        "label": "My social safety net is tested; it's okay \u2014 I don't get totally wrecked.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:4",
+        "label": "I kind of make more connections in Tucson.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:5",
+        "label": "I find a good third place that I feel comfortable in that doesn't have some of the drawbacks of circling.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:6",
+        "label": "When my birthday in May 2026 comes around I have a party with more people than the last one and it's enjoyable and my current friends and my new friends get along.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:7",
+        "label": "That gives me a springboard to play with some of my ideas and facilitation.",
+        "partition": "utterance",
+        "refs": [
+          "social.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:8",
+        "label": "I go to social things and it's overwhelming and boring and it diffuses my attention.",
+        "partition": "utterance",
+        "refs": [
+          "social.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:9",
+        "label": "I long for being around my friends in the Bay which I simultaneously can't really handle because of the psychedelic intensity and expensiveness.",
+        "partition": "utterance",
+        "refs": [
+          "social.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:10",
+        "label": "My work continues to flounder and by my birthday I'm just like this is the same story that I've been in; I didn't learn anything from Michael's death.",
+        "partition": "utterance",
+        "refs": [
+          "social.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:11",
+        "label": "I'm still a workaholic, I still have a bunch of superficial friendships, I still aren't where I belong and my dreams are slipping away from me.",
+        "partition": "utterance",
+        "refs": [
+          "social.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:12",
+        "label": "I don't really do any more social activities than normal.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:13",
+        "label": "Women kind of are disappointed in me cuz I'm like both interested but not taking any action.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:14",
+        "label": "The image I have of myself as a bold go-getter is just not who I am anymore.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:15",
+        "label": "I read a bunch of stuff online and watch a bunch of YouTubes and read a bunch of books; I develop my erudition; I have clever things to say.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:16",
+        "label": "I experiment with facilitation sometimes in the circling community; I still feel annoyed people don't get me and that there feels like there's more for me in life.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:17",
+        "label": "Things are okay. I meditate. I have moments of peace. I go on adventures.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:18",
+        "label": "Over time the stuff that I'm already doing with my health compounds and I work my way through the throat pain \u2014 just waiting.",
+        "partition": "utterance",
+        "refs": [
+          "social.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:19",
+        "label": "I start meeting with my coworkers more.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:20",
+        "label": "I call it staying in contact by staying in contact with Thomas the salesperson, Cindre the security professional, Danny the back end ops maven, Simon the design guru, Alex the data science wiz, and Leo the overworked computer science genius.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:21",
+        "label": "My connection with everyone helps stabilize and amplify our coherence as a team.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:22",
+        "label": "I let go of my aspirations to do something super cool in terms of my engineering and I focus on the simple consensus that I form with Danny and Simon.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:23",
+        "label": "Together we power a road map that actually delivers on things that make sense to the sales team.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:24",
+        "label": "I say f*** Leo's micromanagement; I am going to engage and fill in the psychosocial emotional gaps of this team.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:25",
+        "label": "With Simon who is on the same page as me, we focus the product into something that makes sense.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:26",
+        "label": "The fear and frustration of Alex and Leo and Thomas are allayed because we deliver on the core experience that makes this product useful and interesting.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:27",
+        "label": "The product begins to get external success and my theoretical underpinnings are amplified because underneath what we're building is an information processing system and social features are f****** amazing.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:28",
+        "label": "The main experiment is a connection board: I give myself a star every week that I create a meeting outside of the normal process.",
+        "partition": "utterance",
+        "refs": [
+          "career.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:29",
+        "label": "Expectations on myself wear on my energy; I get into my ADHD loops.",
+        "partition": "utterance",
+        "refs": [
+          "career.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:30",
+        "label": "The product continues to suck; there's dissatisfaction and disappointment.",
+        "partition": "utterance",
+        "refs": [
+          "career.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:31",
+        "label": "I can't move forward on the product because Alex Maurice is asking me to merge unfinished code and meanwhile Leo is off in his own fantasy fear world and asking for all kinds of funny research things when in reality we just aren't there.",
+        "partition": "utterance",
+        "refs": [
+          "career.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:32",
+        "label": "My extra effort to talk to people leads to some initial gains, but I can't actually sustain the maker-manager requirements and my attention goes elsewhere.",
+        "partition": "utterance",
+        "refs": [
+          "career.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:33",
+        "label": "Simon doesn't get the theoretical things and it's a f****** bummer.",
+        "partition": "utterance",
+        "refs": [
+          "career.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:34",
+        "label": "I don't do anything about this; I just kind of go with the flow.",
+        "partition": "utterance",
+        "refs": [
+          "career.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:35",
+        "label": "The team has a certain momentum; we've actually been making a lot of headway on these issues.",
+        "partition": "utterance",
+        "refs": [
+          "career.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:36",
+        "label": "Whether I meet with more people or not, there's disappointment and fear that I'm not going to get my ideas to live through them \u2014 that I won't be seen.",
+        "partition": "utterance",
+        "refs": [
+          "career.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:37",
+        "label": "I don't understand why Leo doesn't want me in product conversations as I f****** have been there since the beginning and I have a bunch of insights into the product.",
+        "partition": "utterance",
+        "refs": [
+          "career.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:38",
+        "label": "I was pushing on Simon about f****** cyber use cases; meanwhile he's f****** complaining and I have a whole goddamn folder of these goddamn f****** things.",
+        "partition": "utterance",
+        "refs": [
+          "career.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:39",
+        "label": "Just f****** share it means that I set the goal of not having my website finalized; even just a Google Doc with whatever project is currently on my mind.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:40",
+        "label": "I put it on Substack; I don't even use my website at first because the main thing is just getting the muscle down.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:41",
+        "label": "All I do with my website is clear out the weird stuff on the front end and do a quick just f****** share it; then I'm unblocked from starting to communicate with the wider world.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:42",
+        "label": "I just want to say hey, I'm a prototyper and an independent researcher and I like these topics; here's some s*** that I've made.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:43",
+        "label": "After I've built a little muscle of just f****** sharing it, then I take the time to get my website a bit more organized when I actually have s*** that I'm ready to just f****** share.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:44",
+        "label": "That frees up my energy; I can start collaborating with external people because I'm clear on who I am.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:45",
+        "label": "I have a work cycle aligned with my ADHD time cycles of 2 weeks; in one or two weeks I distill some s***; I'm not going to try to make anything very big at this moment.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:46",
+        "label": "By next May I have built some muscle and some friends that I'm sharing my writings with; we're riffing and building some online community; researchers see me as a creative guy with some wacky beliefs but also a solid thinker.",
+        "partition": "utterance",
+        "refs": [
+          "creative.heaven"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:47",
+        "label": "I try to just share it but when I do there's no one that's interested in it.",
+        "partition": "utterance",
+        "refs": [
+          "creative.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:48",
+        "label": "It gets stuck at the sharer stage and I've made a few different things but they're incoherent.",
+        "partition": "utterance",
+        "refs": [
+          "creative.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:49",
+        "label": "I end up in the exact same pattern about trying to build something too big rather than having a good short cycle momentum.",
+        "partition": "utterance",
+        "refs": [
+          "creative.hell"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:50",
+        "label": "I don't do anything here and just let it kind of be how it is; sometimes I get really excited about doing something in person with people.",
+        "partition": "utterance",
+        "refs": [
+          "creative.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:51",
+        "label": "The rest of my oeuvre is like how my dad does \u2014 it just sort of piles up all these different experiments I can talk to people about.",
+        "partition": "utterance",
+        "refs": [
+          "creative.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:52",
+        "label": "My work is actually sufficient to be the place where things I work on have long-term thing and the people I work with help me compensate for this pattern.",
+        "partition": "utterance",
+        "refs": [
+          "creative.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:53",
+        "label": "It's disappointing and I'm jealous of all these people that have their creative life out there.",
+        "partition": "utterance",
+        "refs": [
+          "creative.null"
+        ]
+      },
+      "classes": "utterance"
+    },
+    {
+      "data": {
+        "id": "u:54",
+        "label": "I'm too much of a perfectionist; maybe in another year or two other parts of my life move forward and when I have some more financial time I can actually develop some of these ideas.",
+        "partition": "utterance",
+        "refs": [
+          "creative.null"
+        ]
+      },
+      "classes": "utterance"
+    }
+  ],
+  "edges": [
+    {
+      "data": {
+        "id": "e:u:1->Storytelling Workshop",
+        "source": "u:1",
+        "target": "a:Storytelling Workshop"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:1->Interesting People",
+        "source": "u:1",
+        "target": "a:Interesting People"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:1->Resilience Pace",
+        "source": "u:1",
+        "target": "a:Resilience Pace"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:2->Woman",
+        "source": "u:2",
+        "target": "a:Woman"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:2->Dating",
+        "source": "u:2",
+        "target": "a:Dating"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:3->Social Safety Net",
+        "source": "u:3",
+        "target": "a:Social Safety Net"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:3->Emotions",
+        "source": "u:3",
+        "target": "a:Emotions"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:3->Resilience",
+        "source": "u:3",
+        "target": "a:Resilience"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:4->Connections",
+        "source": "u:4",
+        "target": "a:Connections"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:4->Tucson",
+        "source": "u:4",
+        "target": "a:Tucson"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:5->Third Place",
+        "source": "u:5",
+        "target": "a:Third Place"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:5->Circling Drawbacks",
+        "source": "u:5",
+        "target": "a:Circling Drawbacks"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:6->Birthday May 2026",
+        "source": "u:6",
+        "target": "a:Birthday May 2026"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:6->Party",
+        "source": "u:6",
+        "target": "a:Party"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:6->Current Friends",
+        "source": "u:6",
+        "target": "a:Current Friends"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:6->New Friends",
+        "source": "u:6",
+        "target": "a:New Friends"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:7->Springboard",
+        "source": "u:7",
+        "target": "a:Springboard"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:7->Ideas",
+        "source": "u:7",
+        "target": "a:Ideas"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:7->Facilitation",
+        "source": "u:7",
+        "target": "a:Facilitation"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:8->Social Events",
+        "source": "u:8",
+        "target": "a:Social Events"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:8->Overwhelm",
+        "source": "u:8",
+        "target": "a:Overwhelm"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:8->Boredom",
+        "source": "u:8",
+        "target": "a:Boredom"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:8->Attention Diffusion",
+        "source": "u:8",
+        "target": "a:Attention Diffusion"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:9->Bay Friends",
+        "source": "u:9",
+        "target": "a:Bay Friends"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:9->Bay Intensity",
+        "source": "u:9",
+        "target": "a:Bay Intensity"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:9->Expensiveness",
+        "source": "u:9",
+        "target": "a:Expensiveness"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:10->Work",
+        "source": "u:10",
+        "target": "a:Work"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:10->Floundering",
+        "source": "u:10",
+        "target": "a:Floundering"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:10->Birthday May 2026",
+        "source": "u:10",
+        "target": "a:Birthday May 2026"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:10->Michael's Death",
+        "source": "u:10",
+        "target": "a:Michael's Death"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:11->Workaholism",
+        "source": "u:11",
+        "target": "a:Workaholism"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:11->Superficial Friendships",
+        "source": "u:11",
+        "target": "a:Superficial Friendships"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:11->Not Belonging",
+        "source": "u:11",
+        "target": "a:Not Belonging"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:11->Dreams Slipping",
+        "source": "u:11",
+        "target": "a:Dreams Slipping"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:12->Social Activities",
+        "source": "u:12",
+        "target": "a:Social Activities"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:12->Inaction",
+        "source": "u:12",
+        "target": "a:Inaction"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:13->Women",
+        "source": "u:13",
+        "target": "a:Women"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:13->Disappointment",
+        "source": "u:13",
+        "target": "a:Disappointment"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:13->Inaction",
+        "source": "u:13",
+        "target": "a:Inaction"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:14->Self-Image (Bold Go-Getter)",
+        "source": "u:14",
+        "target": "a:Self-Image (Bold Go-Getter)"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:14->Self-Image Mismatch",
+        "source": "u:14",
+        "target": "a:Self-Image Mismatch"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:15->Reading",
+        "source": "u:15",
+        "target": "a:Reading"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:15->YouTube",
+        "source": "u:15",
+        "target": "a:YouTube"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:15->Books",
+        "source": "u:15",
+        "target": "a:Books"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:15->Erudition",
+        "source": "u:15",
+        "target": "a:Erudition"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:15->Cleverness",
+        "source": "u:15",
+        "target": "a:Cleverness"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:16->Facilitation",
+        "source": "u:16",
+        "target": "a:Facilitation"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:16->Circling Community",
+        "source": "u:16",
+        "target": "a:Circling Community"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:16->Annoyance",
+        "source": "u:16",
+        "target": "a:Annoyance"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:16->Not Being Understood",
+        "source": "u:16",
+        "target": "a:Not Being Understood"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:16->More In Life",
+        "source": "u:16",
+        "target": "a:More In Life"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:17->Meditation",
+        "source": "u:17",
+        "target": "a:Meditation"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:17->Peace",
+        "source": "u:17",
+        "target": "a:Peace"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:17->Adventures",
+        "source": "u:17",
+        "target": "a:Adventures"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:18->Health Protocols",
+        "source": "u:18",
+        "target": "a:Health Protocols"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:18->Throat Pain",
+        "source": "u:18",
+        "target": "a:Throat Pain"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:18->Waiting",
+        "source": "u:18",
+        "target": "a:Waiting"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:19->Meetings",
+        "source": "u:19",
+        "target": "a:Meetings"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:19->Coworkers",
+        "source": "u:19",
+        "target": "a:Coworkers"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Staying in Contact",
+        "source": "u:20",
+        "target": "a:Staying in Contact"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Thomas",
+        "source": "u:20",
+        "target": "a:Thomas"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Cindre",
+        "source": "u:20",
+        "target": "a:Cindre"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Danny",
+        "source": "u:20",
+        "target": "a:Danny"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Simon",
+        "source": "u:20",
+        "target": "a:Simon"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Alex",
+        "source": "u:20",
+        "target": "a:Alex"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:20->Leo",
+        "source": "u:20",
+        "target": "a:Leo"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:21->Connection",
+        "source": "u:21",
+        "target": "a:Connection"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:21->Coherence",
+        "source": "u:21",
+        "target": "a:Coherence"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:21->Team",
+        "source": "u:21",
+        "target": "a:Team"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:22->Super Cool Engineering",
+        "source": "u:22",
+        "target": "a:Super Cool Engineering"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:22->Simple Consensus",
+        "source": "u:22",
+        "target": "a:Simple Consensus"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:22->Danny",
+        "source": "u:22",
+        "target": "a:Danny"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:22->Simon",
+        "source": "u:22",
+        "target": "a:Simon"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:23->Roadmap",
+        "source": "u:23",
+        "target": "a:Roadmap"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:23->Delivery",
+        "source": "u:23",
+        "target": "a:Delivery"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:23->Sales Team",
+        "source": "u:23",
+        "target": "a:Sales Team"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:24->Leo's Micromanagement",
+        "source": "u:24",
+        "target": "a:Leo's Micromanagement"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:24->Engagement",
+        "source": "u:24",
+        "target": "a:Engagement"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:24->Psychosocial Emotional Gaps",
+        "source": "u:24",
+        "target": "a:Psychosocial Emotional Gaps"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:25->Alignment with Simon",
+        "source": "u:25",
+        "target": "a:Alignment with Simon"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:25->Product Focus",
+        "source": "u:25",
+        "target": "a:Product Focus"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:26->Fear",
+        "source": "u:26",
+        "target": "a:Fear"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:26->Frustration",
+        "source": "u:26",
+        "target": "a:Frustration"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:26->Core Experience",
+        "source": "u:26",
+        "target": "a:Core Experience"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:26->Product Usefulness",
+        "source": "u:26",
+        "target": "a:Product Usefulness"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:27->External Success",
+        "source": "u:27",
+        "target": "a:External Success"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:27->Theoretical Underpinnings",
+        "source": "u:27",
+        "target": "a:Theoretical Underpinnings"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:27->Information Processing System",
+        "source": "u:27",
+        "target": "a:Information Processing System"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:27->Social Features",
+        "source": "u:27",
+        "target": "a:Social Features"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:28->Connection Board",
+        "source": "u:28",
+        "target": "a:Connection Board"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:28->Weekly Star",
+        "source": "u:28",
+        "target": "a:Weekly Star"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:28->Creating Meetings",
+        "source": "u:28",
+        "target": "a:Creating Meetings"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:29->Expectations",
+        "source": "u:29",
+        "target": "a:Expectations"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:29->Energy",
+        "source": "u:29",
+        "target": "a:Energy"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:29->ADHD Loops",
+        "source": "u:29",
+        "target": "a:ADHD Loops"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:30->Product Suck",
+        "source": "u:30",
+        "target": "a:Product Suck"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:30->Dissatisfaction",
+        "source": "u:30",
+        "target": "a:Dissatisfaction"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:30->Disappointment",
+        "source": "u:30",
+        "target": "a:Disappointment"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:31->Alex Maurice",
+        "source": "u:31",
+        "target": "a:Alex Maurice"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:31->Unfinished Code Merges",
+        "source": "u:31",
+        "target": "a:Unfinished Code Merges"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:31->Leo",
+        "source": "u:31",
+        "target": "a:Leo"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:31->Fantasy Fear World",
+        "source": "u:31",
+        "target": "a:Fantasy Fear World"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:31->Premature Research Requests",
+        "source": "u:31",
+        "target": "a:Premature Research Requests"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:32->Extra Effort",
+        "source": "u:32",
+        "target": "a:Extra Effort"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:32->Initial Gains",
+        "source": "u:32",
+        "target": "a:Initial Gains"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:32->Maker-Manager Load",
+        "source": "u:32",
+        "target": "a:Maker-Manager Load"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:32->Attention Drift",
+        "source": "u:32",
+        "target": "a:Attention Drift"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:33->Simon",
+        "source": "u:33",
+        "target": "a:Simon"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:33->Theory",
+        "source": "u:33",
+        "target": "a:Theory"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:33->Misalignment",
+        "source": "u:33",
+        "target": "a:Misalignment"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:33->Bummer",
+        "source": "u:33",
+        "target": "a:Bummer"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:34->Inaction",
+        "source": "u:34",
+        "target": "a:Inaction"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:34->Flow",
+        "source": "u:34",
+        "target": "a:Flow"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:35->Team Momentum",
+        "source": "u:35",
+        "target": "a:Team Momentum"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:35->Headway",
+        "source": "u:35",
+        "target": "a:Headway"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:36->Ideas",
+        "source": "u:36",
+        "target": "a:Ideas"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:36->Not Being Seen",
+        "source": "u:36",
+        "target": "a:Not Being Seen"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:36->Disappointment",
+        "source": "u:36",
+        "target": "a:Disappointment"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:36->Fear",
+        "source": "u:36",
+        "target": "a:Fear"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:37->Leo",
+        "source": "u:37",
+        "target": "a:Leo"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:37->Product Conversations",
+        "source": "u:37",
+        "target": "a:Product Conversations"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:37->Exclusion",
+        "source": "u:37",
+        "target": "a:Exclusion"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:37->Insights",
+        "source": "u:37",
+        "target": "a:Insights"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:38->Simon",
+        "source": "u:38",
+        "target": "a:Simon"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:38->Cyber Use Cases",
+        "source": "u:38",
+        "target": "a:Cyber Use Cases"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:38->Complaining",
+        "source": "u:38",
+        "target": "a:Complaining"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:38->Folder of Use Cases",
+        "source": "u:38",
+        "target": "a:Folder of Use Cases"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:39->Just-Share-It",
+        "source": "u:39",
+        "target": "a:Just-Share-It"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:39->Website",
+        "source": "u:39",
+        "target": "a:Website"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:39->Google Doc",
+        "source": "u:39",
+        "target": "a:Google Doc"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:39->Project",
+        "source": "u:39",
+        "target": "a:Project"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:40->Substack",
+        "source": "u:40",
+        "target": "a:Substack"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:40->Not Using Website",
+        "source": "u:40",
+        "target": "a:Not Using Website"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:40->Sharing Muscle",
+        "source": "u:40",
+        "target": "a:Sharing Muscle"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:41->Front-End Cleanup",
+        "source": "u:41",
+        "target": "a:Front-End Cleanup"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:41->Just-Share-It",
+        "source": "u:41",
+        "target": "a:Just-Share-It"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:41->Unblocked Communication",
+        "source": "u:41",
+        "target": "a:Unblocked Communication"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:42->Prototyper Identity",
+        "source": "u:42",
+        "target": "a:Prototyper Identity"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:42->Independent Researcher Identity",
+        "source": "u:42",
+        "target": "a:Independent Researcher Identity"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:42->Sharing Artifacts",
+        "source": "u:42",
+        "target": "a:Sharing Artifacts"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:43->Muscle Build",
+        "source": "u:43",
+        "target": "a:Muscle Build"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:43->Website Organization",
+        "source": "u:43",
+        "target": "a:Website Organization"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:43->Readiness",
+        "source": "u:43",
+        "target": "a:Readiness"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:44->Energy Freed",
+        "source": "u:44",
+        "target": "a:Energy Freed"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:44->Collaborations",
+        "source": "u:44",
+        "target": "a:Collaborations"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:44->Self-Clarity",
+        "source": "u:44",
+        "target": "a:Self-Clarity"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:45->Two-Week Cycle",
+        "source": "u:45",
+        "target": "a:Two-Week Cycle"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:45->Distillation",
+        "source": "u:45",
+        "target": "a:Distillation"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:45->Right-Sized Work",
+        "source": "u:45",
+        "target": "a:Right-Sized Work"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:46->Next May",
+        "source": "u:46",
+        "target": "a:Next May"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:46->Sharing Friends",
+        "source": "u:46",
+        "target": "a:Sharing Friends"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:46->Online Community",
+        "source": "u:46",
+        "target": "a:Online Community"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:46->Reputation (Quirky but Solid)",
+        "source": "u:46",
+        "target": "a:Reputation (Quirky but Solid)"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:47->Sharing Attempts",
+        "source": "u:47",
+        "target": "a:Sharing Attempts"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:47->No Interest",
+        "source": "u:47",
+        "target": "a:No Interest"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:48->Sharer Stage",
+        "source": "u:48",
+        "target": "a:Sharer Stage"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:48->Incoherence",
+        "source": "u:48",
+        "target": "a:Incoherence"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:49->Overbuilding",
+        "source": "u:49",
+        "target": "a:Overbuilding"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:49->Short-Cycle Momentum",
+        "source": "u:49",
+        "target": "a:Short-Cycle Momentum"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:50->Inaction",
+        "source": "u:50",
+        "target": "a:Inaction"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:50->In-Person Excitement",
+        "source": "u:50",
+        "target": "a:In-Person Excitement"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:51->Dad Pattern",
+        "source": "u:51",
+        "target": "a:Dad Pattern"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:51->Piling Experiments",
+        "source": "u:51",
+        "target": "a:Piling Experiments"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:52->Work",
+        "source": "u:52",
+        "target": "a:Work"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:52->Teammates",
+        "source": "u:52",
+        "target": "a:Teammates"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:52->Compensation",
+        "source": "u:52",
+        "target": "a:Compensation"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:53->Disappointment",
+        "source": "u:53",
+        "target": "a:Disappointment"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:53->Jealousy",
+        "source": "u:53",
+        "target": "a:Jealousy"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:54->Perfectionism",
+        "source": "u:54",
+        "target": "a:Perfectionism"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:54->Future Space",
+        "source": "u:54",
+        "target": "a:Future Space"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:54->Financial Time",
+        "source": "u:54",
+        "target": "a:Financial Time"
+      }
+    },
+    {
+      "data": {
+        "id": "e:u:54->Ideas",
+        "source": "u:54",
+        "target": "a:Ideas"
+      }
+    }
+  ]
+}
