@@ -49,6 +49,7 @@ include = ["qnet*"]
 # Tell uv to actually install the project into the env
 [tool.uv]
 package = true
+exclude-newer = "6 days"
 
 # Optional: dev-only stuff that's nice for notebooks & testing
 [dependency-groups]
